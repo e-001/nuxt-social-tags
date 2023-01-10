@@ -1,6 +1,6 @@
 {
   "name": "nuxt-social-tags",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "license": "MIT",
   "repository": "https://github.com/intevel/nuxt-social-tags",
   "homepage": "https://nuxt-social-tags.netlify.app/",
@@ -18,7 +18,7 @@
       "require": "./dist/module.cjs"
     }
   },
-  "main": "./dist/module.cjs",
+  "main": "./dist/module.mjs",
   "types": "./dist/types.d.ts",
   "files": [
     "dist"

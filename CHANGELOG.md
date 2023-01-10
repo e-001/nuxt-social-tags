@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/intevel/nuxt-social-tags/compare/v1.2.3...v1.2.4) (2023-01-10)
+
+
+### Bug Fixes
+
+* don't overwrite existing meta, closes [#5](https://github.com/intevel/nuxt-social-tags/issues/5) ([926d422](https://github.com/intevel/nuxt-social-tags/commit/926d42242876b179fdfcf5de58273b3eb4ec886f))
+
 ### [1.2.3](https://github.com/intevel/nuxt-social-tags/compare/v1.2.2...v1.2.3) (2022-09-04)
 
 
